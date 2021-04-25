@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VAComputingTask</string>
+    <string name="enterFirst">Enter first number please</string>
+    <string name="enterSec">Enter sec number please</string>
+</resources>
